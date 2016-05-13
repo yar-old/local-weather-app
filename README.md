@@ -1,4 +1,4 @@
-# Random Quote Generator
+# Local Weather App
 
 This is a local weather app, powered by the Open Weather Map API.
 Uses asynchronous AJAX calls to the Open Weather Map API to concurrently fetch
